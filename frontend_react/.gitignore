@@ -19,6 +19,9 @@
 .env.test.local
 .env.production.local
 
+# Dotenv and similar local-only files
+*.local
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
